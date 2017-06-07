@@ -1,3 +1,3 @@
 # TiJO_4
-Zmiany studenta aniaw
+Zmiany studenta Wisnia4
 zostały dodane do brancha address.
